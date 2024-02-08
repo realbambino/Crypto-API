@@ -1,0 +1,1 @@
+This directory contains open source Visual Basic 6.0 class implementations of the MD5, SHA-1 and SHA-256 hash algorithms. Enjoy!
